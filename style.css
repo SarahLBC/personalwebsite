@@ -37,6 +37,9 @@
 
 .container-top {
   background-color: #ffffff80;
+  background-image: url(./images/bad84e3e-97cd-4a77-9940-bd402c2e7394.png);
+  background-size: cover;
+  background-blend-mode: lighten;
 }
 .container-middle {
   background-color: #ffffff80;
